@@ -1,2 +1,0 @@
-beddu si
-SUCA
