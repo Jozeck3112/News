@@ -1,1 +1,1 @@
-{ "username":"@ShinsukeN tweeted", "content":"@{{UserName}} tweeted this at {{CreatedAt}}: {{LinkToTweet}}" }
+{ "username":"@FennecKejo tweeted", "content":"@{{UserName}} tweeted this at {{CreatedAt}}: {{LinkToTweet}}" }
